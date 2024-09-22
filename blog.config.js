@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '书目',
+  title: 'BOOKS',
   author: 'Wan',
   email: 'wyhhr07@sina.com',
   link: 'https://book.wanyunhui.top',
@@ -11,7 +11,7 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: , // If leave this empty, current year will be used.
+  since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 20,
   sortByDate: false,
   showAbout: true,
